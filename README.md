@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @AgonSkull
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Olá, eu sou o @AegonSkull
 
-<!---
-AgonSkull/AgonSkull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Estou sempre interessado em decifrar os quebra-cabeças do código e transformar linhas em inovações digitais.
+
+🌱 Estudando Back-End.
